@@ -16,7 +16,9 @@
     </tr>
 </table>
 
-### Tesla's Guaranteed kWh
+**Daylength Data Source:** https://sunrise.maplogs.com/palm_springs_ca_usa.83480.html
+
+### Tesla's Guaranteed kWh and Price/kWh
 
 <img src="./images/tesla-solar-agreement-screenshot.jpg" width = 500/>
 
