@@ -1,5 +1,6 @@
 # Predicting How Much Money Tesla Owes Us
 ## Using Tesla Solar Energy Data, Our Power Bill, and Historical Daylength Data for Our Local Area
+<br>
 
 <table width = "100%">
     <tr>
@@ -14,6 +15,13 @@
         </td>
     </tr>
 </table>
+
+### Tesla's Guaranteed kWh
+<br>
+
+<img src="./images/tesla-solar-agreement-screenshot.jpg" width = 500/>
+<br>
+<br>
 
 ### Working Directory Structure
 
