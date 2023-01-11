@@ -18,6 +18,32 @@
 
 **Daylength Data Source:** https://sunrise.maplogs.com/palm_springs_ca_usa.83480.html
 
+### TOC
+
+1. Pre-Processing
+
+    a. [Solar Data Pre-Processing](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/1%20-%20pre-processing/a%20-%20Solar%20Data%20Pre-Processing.ipynb)
+    
+    b. [Sunlight Duration Data Pre-Processing](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/1%20-%20pre-processing/b%20-%20Sunlight%20Duration%20Data%20Pre-Processing.ipynb)
+    
+    c. [Merging Dataframes](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/1%20-%20pre-processing/c%20-%20Merging%20Dataframes.ipynb)
+    
+2. Analysis
+
+    a. [Solar EDA](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/2%20-%20analysis/a%20-%20Solar%20EDA.ipynb)
+    
+    b. [Sunlight Duration EDA](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/2%20-%20analysis/b%20-%20Sunlight%20Duration%20EDA.ipynb)
+    
+    c. [Energy Cost EDA](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/2%20-%20analysis/c%20-%20Energy%20Cost%20EDA.ipynb)
+    
+    d. [Combined EDA](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/2%20-%20analysis/d%20-%20Combined%20EDA.ipynb)
+    
+3. Modeling
+
+    a. [Feature Selection](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/3%20-%20modeling/a%20-%20Feature%20Selection.ipynb)
+    
+    b. [Feature Transformation](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/3%20-%20modeling/b%20-%20Feature%20Transformation.ipynb)
+
 ### Tesla's Guaranteed kWh and Price/kWh
 
 <img src="./images/tesla-solar-agreement-screenshot.jpg" width = 500/>
