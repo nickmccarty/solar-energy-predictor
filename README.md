@@ -23,7 +23,7 @@
 ### Working Directory Structure
 
 ```
-./
+.
 ├── README.md
 ├── data
 │   ├── interim
@@ -95,17 +95,18 @@
 ├── images
 │   ├── daylength-data-screenshot.jpg
 │   ├── power-bill-screenshot.jpg
-│   └── tesla-app-screenshot.jpg
+│   ├── tesla-app-screenshot.jpg
+│   └── tesla-solar-agreement-screenshot.jpg
 └── notebooks
-    ├── analysis
-    │   ├── 1 - Solar EDA.ipynb
-    │   ├── 2 - Sunlight Duration EDA.ipynb
-    │   ├── 3 - Energy Cost EDA.ipynb
-    │   └── 4 - Combined EDA.ipynb
-    ├── modeling
-    │   └── 1 - Feature Engineering.ipynb
-    └── pre-processing
-        ├── 1 - Solar Data Pre-Processing.ipynb
-        ├── 2 - Sunlight Duration Data Pre-Processing.ipynb
-        └── 3 - Merging Dataframes.ipynb
+    ├── 1 - pre-processing
+    │   ├── a - Solar Data Pre-Processing.ipynb
+    │   ├── b - Sunlight Duration Data Pre-Processing.ipynb
+    │   └── c - Merging Dataframes.ipynb
+    ├── 2 - analysis
+    │   ├── a - Solar EDA.ipynb
+    │   ├── b - Sunlight Duration EDA.ipynb
+    │   ├── c - Energy Cost EDA.ipynb
+    │   └── d - Combined EDA.ipynb
+    └── 3 - modeling
+        └── a - Feature Selection.ipynb
 ```
