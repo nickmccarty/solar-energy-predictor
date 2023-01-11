@@ -17,11 +17,8 @@
 </table>
 
 ### Tesla's Guaranteed kWh
-<br>
 
 <img src="./images/tesla-solar-agreement-screenshot.jpg" width = 500/>
-<br>
-<br>
 
 ### Working Directory Structure
 
