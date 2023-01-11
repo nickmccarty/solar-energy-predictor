@@ -108,5 +108,6 @@
     │   ├── c - Energy Cost EDA.ipynb
     │   └── d - Combined EDA.ipynb
     └── 3 - modeling
-        └── a - Feature Selection.ipynb
+        ├── a - Feature Selection.ipynb
+        └── b - Feature Transformation.ipynb
 ```
