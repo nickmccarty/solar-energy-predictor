@@ -44,7 +44,9 @@
     
     b. [Feature Transformation](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/3%20-%20modeling/b%20-%20Feature%20Transformation.ipynb)
     
-    c. [ARIMA](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/3%20-%20modeling/c%20-%20ARIMA.ipynb)
+    c. [Multiple Linear Regression](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/3%20-%20modeling/c%20-%20Multiple%20Linear%20Regression.ipynb)
+    
+    d. [ARIMA](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/3%20-%20modeling/c%20-%20ARIMA.ipynb)
 
 ### Tesla's Guaranteed kWh and Price/kWh
 
@@ -140,5 +142,6 @@
     └── 3 - modeling
         ├── a - Feature Selection.ipynb
         ├── b - Feature Transformation.ipynb
-        └── c - ARIMA.ipynb
+        ├── c - Multiple Linear Regression.ipynb
+        └── d - ARIMA.ipynb
 ```
