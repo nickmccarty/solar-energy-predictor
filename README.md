@@ -46,7 +46,7 @@
     
     c. [Multiple Linear Regression](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/3%20-%20modeling/c%20-%20Multiple%20Linear%20Regression.ipynb)
     
-    d. [ARIMA](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/3%20-%20modeling/c%20-%20ARIMA.ipynb)
+    d. [ARIMA](https://github.com/nickmccarty/solar-energy-predictor/blob/main/notebooks/3%20-%20modeling/d%20-%20ARIMA.ipynb)
 
 ### Tesla's Guaranteed kWh and Price/kWh
 
