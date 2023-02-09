@@ -2,8 +2,6 @@
 ## Using Tesla Solar Energy Data, Our Power Bill, and Historical Daylength Data for Our Local Area
 <br>
 
-Yes! 
-
 <table width = "100%">
     <tr>
         <td>
