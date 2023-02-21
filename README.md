@@ -50,7 +50,7 @@
 
 ### Tesla's Guaranteed kWh and Price/kWh
 
-<img src="./images/tesla-solar-agreement-screenshot.jpg" width = 500/>
+<img src="https://raw.githubusercontent.com/nickmccarty/solar-energy-predictor/main/images/tesla-solar-agreement-screenshot.jpg" width = 500/>
 
 ### Working Directory Structure
 
@@ -151,10 +151,10 @@
 <table width = "100%">
     <tr>
         <td>
-            <img src="./images/predicted-kWh-lost.png"/>
+            <img src="https://raw.githubusercontent.com/nickmccarty/solar-energy-predictor/main/images/predicted-kWh-lost.png"/>
         </td>
         <td>
-            <img src="./images/ARIMA-forecast-screenshot.png"/> 
+            <img src="https://raw.githubusercontent.com/nickmccarty/solar-energy-predictor/main/images/ARIMA-forecast-screenshot.png"/> 
         </td>
     </tr>
 </table>
