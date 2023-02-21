@@ -5,13 +5,13 @@
 <table width = "100%">
     <tr>
         <td>
-            <img src="./images/tesla-app-screenshot.jpg"/> 
+            <img src="https://raw.githubusercontent.com/nickmccarty/solar-energy-predictor/main/images/tesla-app-screenshot.jpg"/> 
         </td>
         <td>
-            <img src="./images/power-bill-screenshot.jpg"/>
+            <img src="https://raw.githubusercontent.com/nickmccarty/solar-energy-predictor/main/images/power-bill-screenshot.jpg"/>
         </td>
         <td>
-            <img src="./images/daylength-data-screenshot.jpg"/>
+            <img src="https://raw.githubusercontent.com/nickmccarty/solar-energy-predictor/main/images/daylength-data-screenshot.jpg"/>
         </td>
     </tr>
 </table>
